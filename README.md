@@ -16,7 +16,7 @@
 ---
 
 ## 🖼️ 操作示例
-
+![1](https://github.com/user-attachments/assets/6b7ca23f-e0da-44b1-9033-7536508b5358)
 <img width="1700" height="1500" alt="image" src="https://github.com/user-attachments/assets/c5cd0dec-d096-4459-8587-9ac0078e9ed4" />  
 <img width="1700" height="1500" alt="image" src="https://github.com/user-attachments/assets/d7bce485-0e32-4ee4-8938-e6afe97fa278" />
 
